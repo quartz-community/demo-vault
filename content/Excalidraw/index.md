@@ -3,7 +3,6 @@ title: Excalidraw
 description: A page type plugin that renders Obsidian Excalidraw drawings as full-page interactive visualizations in Quartz.
 ---
 
-
 # @quartz-community/obsidian-plugin-excalidraw
 
 A page type plugin that renders [Obsidian Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) drawings (`.excalidraw.md` and `.excalidraw` files) as full-page interactive SVG visualizations. Supports shapes, text, arrows, freedraw strokes, embedded notes with transcluded content, embedded webpages via iframe, and full dark/light theme adaptation using Excalidraw's color palette.
@@ -29,13 +28,13 @@ plugins:
 For advanced use cases, you can override in TypeScript:
 
 ```ts title="quartz.ts (override)"
-import * as ExternalPlugin from "./.quartz/plugins";
+import * as ExternalPlugin from "./.quartz/plugins"
 
 ExternalPlugin.ExcalidrawPage({
   enableInteraction: true,
   darkMode: "auto",
   exportPadding: 20,
-});
+})
 ```
 
 ## Features

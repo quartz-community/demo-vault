@@ -1,23 +1,24 @@
 ---
-
 excalidraw-plugin: parsed
 tags: [excalidraw]
-
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 # Excalidraw Data
 
 ## Text Elements
+
 npx quartz plugin add github:quartz-community/obsidian-plugin-excalidraw ^I1ZTc2HA
 
 ## Element Links
+
 jmIGvIPB: https://quartz.jzhao.xyz
 
 lndO6XBQ: [[Excalidraw/index]]
 
 ## Embedded Files
+
 379ae78af5fe62150aca93dc8f60c37fa8788ec7: [[quartz-logo.png]]
 
 589b12dac69d59bed3b188dfc79753921ea944b5: [[excalidraw-logo.png]]
@@ -25,7 +26,9 @@ lndO6XBQ: [[Excalidraw/index]]
 2fe5163079f0b10f15f9ad0bb8d779ea18d5a3e3: [[obsidian-icon.png]]
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZR5tHgBmbQA2GjoghH0EDihmbgBtcDBQMBKIEm4IfQB1AFZNelxMADVUkshYRArA7CiOZWDW0sxuZ3iAdliARgAOGsmATlmannn5
 
@@ -115,4 +118,5 @@ iFl1JAEsswqjV+jgggEraiuujniJdIoCKkA0lIDKB2QAACiJ7UAeMWwB9feuNIABKGUNvGUACNFEl6m9
 
 WcFcBCQYBTXAoZlE8uZQFgMCKhZN0GgGLYOdGhBg1ImsTRJp9wjrHAzAVDZSCziWQSyWQIQEJo1J2llA6/DdB1FywYAjJzG9Nb0ooXKABNaGujVIUUULduNuAdFWBn80sb0NhxTAFpuCByaOAfGi8JXCiDm5wA2kWUCHgLA0RywQAA==
 ```
+
 %%
